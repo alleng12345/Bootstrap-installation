@@ -1,1 +1,1 @@
-# Bootstratp-installation
+# Bootstrap-installation
